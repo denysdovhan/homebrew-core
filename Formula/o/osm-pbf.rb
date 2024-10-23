@@ -4,7 +4,7 @@ class OsmPbf < Formula
   url "https://github.com/openstreetmap/OSM-binary/archive/refs/tags/v1.5.1.tar.gz"
   sha256 "183ad76c5905c7abd35d938824320ffb82d9ca8987796018f2da8380b51cdac2"
   license "LGPL-3.0-or-later"
-  revision 8
+  revision 9
 
   bottle do
     sha256 cellar: :any,                 arm64_sequoia: "8125d2a217d5ce83df6db4ab63148f5b364bb23d28d97e6aed0ad4196c5603a6"
