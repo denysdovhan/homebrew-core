@@ -5,6 +5,7 @@ class Grpc < Formula
       tag:      "v1.67.0",
       revision: "74f245857247b4b3e28a753d85d06ae2d5a55434"
   license "Apache-2.0"
+  revision 1
   head "https://github.com/grpc/grpc.git", branch: "master"
 
   # There can be a notable gap between when a version is tagged and a
